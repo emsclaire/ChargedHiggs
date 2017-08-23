@@ -27,7 +27,7 @@ Code
 
 Skim:
 
-(obtain TLorentzVectors and apply cuts etc.)
+(obtain TLorentzVectors, match jets to b-partons and apply cuts etc.)
 
     python python/submitJobs.sh [sample] [njobs]
 
