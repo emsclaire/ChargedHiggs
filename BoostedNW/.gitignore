@@ -1,0 +1,10 @@
+m300.root
+tmva_class_example.root
+tmva.root
+data/*
+lib/*
+bin/*
+batch/*
+test.root
+tmva_m300.root
+tmva_m900.root
