@@ -15,8 +15,11 @@ Date: 21 July 2017
 Description:
 
 To place limits on ttHc -> bbbbllvv cross-section
+
 Using MadGraph5+Pythia6+Delphes samples (875000 events per sample) (updating to Pythia8)
+
 Signal: Charged Higgs samples produced with 2HDMC model at mass = {300,400,500,600,700,800,900} GeV
+
 Background: ttbb, ttcc and tt+l
 
 ******************************************************************************************************************
